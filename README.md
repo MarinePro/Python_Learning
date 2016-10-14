@@ -1,2 +1,2 @@
 # Python_Learning
-Notes about learing Python
+Notes about learning Python
